@@ -28,3 +28,10 @@ This repository provides an implementation of a DenseNet-121 model for detecting
   - OpenCV
   - NumPy
   - Matplotlib
+
+## Suggestions 
+ - Improve the accuracy of DenseNet model
+ - Make a completely new model which requires low computation units.
+ - Incorporating a Hybrid Approach of Machine Learning and Deep Learning
+ - Using the model to create an API
+ - A Working User Interface
